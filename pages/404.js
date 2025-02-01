@@ -10,7 +10,7 @@ const ErrorPage = () => {
             </Image>
             <Link href={'/'}>
                 <button className="btn btn-info text-white text-center">
-                    Back To Home
+                    Back To Home!
                 </button>
             </Link>
         </div>
